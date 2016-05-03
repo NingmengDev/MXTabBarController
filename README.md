@@ -1,0 +1,4 @@
+# MXTabBarController
+自定义TabBarController，可在TabBar上添加一个不规则的按钮，且不占用掉一个viewController。
+
+中间按钮可自定义，位置也可以根据自己的需要进行调整，仅作学习之用。
